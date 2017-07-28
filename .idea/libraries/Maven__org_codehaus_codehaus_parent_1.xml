@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus:codehaus-parent:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/codehaus-parent/1/codehaus-parent-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/codehaus-parent/1/codehaus-parent-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/codehaus-parent/1/codehaus-parent-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
