@@ -22,7 +22,7 @@ public class EvroinsFront {
     private String frontUrlf;
     private String jjj;
     String parts;
-    int timeoutInSeconds = 20;
+    int timeoutInSeconds = 25;
     String orderId;
 
     //@Before
